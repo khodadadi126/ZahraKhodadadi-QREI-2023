@@ -1,0 +1,2 @@
+
+Step3---->Folder of Phase 2--->Folder of phase 2_for All delta with 20 x20----->Put the file Spa_Temp_Baseline in it ---->open file phase2--->Put the ARl value--->Run file phase2                               
