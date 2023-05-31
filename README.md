@@ -10,3 +10,5 @@ Step3---->Folder of Phase 2--->Folder of phase 2_for All delta with 20 x20----->
 
 
 https://zenodo.org/badge/DOI/10.5281/zenodo.7985862.svg
+
+![image](https://github.com/khodadadi126/ZahraKhodadadi-QREI-2023/assets/133666701/1dcdc771-85a3-48fa-80d5-e430859ccb5f)
