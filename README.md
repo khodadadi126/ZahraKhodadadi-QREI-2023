@@ -8,4 +8,4 @@ Step2---->Folder of Phase 1--->Folder of ARL---->Put the file Spa_Temp_Baseline 
 
 Step3---->Folder of Phase 2--->Folder of phase 2_for All delta with 20 x20----->Put the file Spa_Temp_Baseline in it ---->open file phase2--->Put the ARl value--->Run file phase2                             
 
-  DOI 10.5281/zenodo.7985861
+https://zenodo.org/badge/DOI/10.5281/zenodo.7985862.svg#:~:text=DOI,DOI
