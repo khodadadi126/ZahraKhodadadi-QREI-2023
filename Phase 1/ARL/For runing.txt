@@ -1,1 +1,1 @@
-Step2---->Folder of Phase 1--->Folder of ARL---->Put the file Spa_Temp_Baseline in it----->Run the ARL file
+
